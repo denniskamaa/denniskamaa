@@ -1,1 +1,1 @@
-- 👋 Hi, I’m Dennis kariuki Kamau from Nairobi Kenya.
+- 👋 Hi, I’m Dennis Kariuki Kamau from Nairobi Kenya.
