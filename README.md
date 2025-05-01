@@ -6,7 +6,7 @@
 ⁽/₎ Currently perfecting my C++ <br> 
 
 
-# 💫 About Me:
+# 🌟 About Me:
  
 
 
