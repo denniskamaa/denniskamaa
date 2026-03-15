@@ -4,3 +4,6 @@
 💻 Premium Support Engineer at GitHub ❤️ <br>
 👨🏾‍💻 Python Developer <br>
 💻 Currently perfecting my C++ <br> 
+
+
+When I grow up I want to be a Quant📈
