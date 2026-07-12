@@ -1,8 +1,15 @@
 # Hi there, I'm Dennis Kariuki! 👋
 
-I am a Software Engineer and AI/ML Master's student at JKUAT. My work sits at the intersection of building production-grade software, advanced machine learning, and **Quantitative Finance**. 
+I am a Software Engineer, an AI/ML Master's student at JKUAT, and a **CQF (Certificate in Quantitative Finance) Student**. My work sits at the intersection of building production-grade software, advanced machine learning, and quantitative finance. 
 
-Currently, I am deep-diving into rigorous mathematical frameworks, probability, and statistics as I prepare for the Certificate in Quantitative Finance (CQF) program, with the ultimate goal of developing high-performance systematic trading models.
+Currently, I am deep-diving into stochastic calculus, advanced probability, and machine learning implementations for financial markets as part of my CQF journey, with the ultimate goal of developing high-performance systematic trading models.
+
+---
+
+### 🚀 What I'm Up To
+* 📈 **Quantitative Finance:** Enrolled in the CQF program, focusing on quantitative research, derivatives pricing, and systematic trading (Stocks & FX).
+* 🎓 **Academic Studies:** Working on my thesis in my MSc in Artificial Intelligence & Machine Learning at JKUAT.
+* 🛠️ **Engineering:** Writing clean, scalable, production-grade code and exploring advanced ML data pipelines.
 
 ---
 
@@ -14,7 +21,7 @@ Currently, I am deep-diving into rigorous mathematical frameworks, probability, 
 ---
 
 ### 🛠️ Tech Stack & Tools
-* **Languages:** Python (Core libraries, Pandas, NumPy), JavaScript/TypeScript
+* **Languages:** Python (Core libraries, Pandas, NumPy).
 * **Data Science & ML:** Scikit-learn, Computer Vision, Data Processing pipelines
 * **Tools & Ecosystem:** Cursor, Git, GitHub
 
@@ -31,6 +38,7 @@ A computer vision and machine learning project designed to process agricultural 
 #### 🔹 Quantitative Finance Frameworks
 An independent research initiative focusing on the intersection of data science and financial markets, building foundational architectures for systematic property and foreign currency backtesting.
 
+#### For more project please check out my LinkedIn page 👇🏼
 ---
 
 ### 🤝 Let's Connect
