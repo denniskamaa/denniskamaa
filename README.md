@@ -34,5 +34,5 @@ An independent research initiative focusing on the intersection of data science 
 ---
 
 ### 🤝 Let's Connect
-* 💼 **LinkedIn:** [Dennis Kariuki](PASTE_YOUR_LINKEDIN_URL_HERE)
+* 💼 **LinkedIn:** [Dennis Kariuki](https://www.linkedin.com/in/dennis-kariuki-10a269221)
 * 📧 **Email:** [dennis@denniskariuki.com](mailto:dennis@denniskariukicom)
